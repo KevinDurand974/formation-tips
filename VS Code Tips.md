@@ -10,7 +10,7 @@ _"ù" ce trouve à droite de la touche M sur un clavier Azerty_
 
 ### Changer le type de Shell par défaut utilisé dans la console
 
-> Cliqué sur la [▾] à côté du [+] en haut a droite
+> Cliqué sur la [▾] à côté du [+] en haut a droite de la console
 
 > Dernier choix de la liste, `Select Default Profile`
 
