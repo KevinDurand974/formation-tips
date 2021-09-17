@@ -1,6 +1,40 @@
-## Petites astuces pour visual studio code :
+# Petites astuces pour visual studio code :
 
-- Pour ouvrir / caché le terminal : CONTROL + ù (touche à côté de M)
+### Ouvrir ou Cacher la console
 
-- On peu changer le terminal par défaut en faisant ça : CONTROL + SHIFT + P >> Tapé " Terminal " >> Selectionné Terminal: Select Default Profile >> Sélectionné celui que l'on veut
-- Ou FILE >> PREFERENCES >> SETTINGS (CONTROL + ,) >> et tapé dans la barre de recherche >> terminal.integrated.defaultProfile >> Changez selon votre plateforme
+> Cliqué sur la [x] en haut à droite de la console si ouvert
+> Utilisé le raccourci `CONTROL + ù`
+> _"ù" ce trouve à droite de la touche M sur un clavier Azerty_
+
+### Changer le type de Shell par défaut utilisé dans la console
+
+> Cliqué sur la [▾] à côté du [+] en haut a droite
+> Dernier choix de la liste, `Select Default Profile`
+
+ou
+
+> Cliqué sur `FILE` >> `PREFERENCES` >> `TERMINAL` >> Tapé dans la barre de recherche `terminal.integrated.defaultProfile` >> Changez selon votre plateforme
+
+ou
+
+> Via un raccrouci : `CONTROL + SHIFT + P` >> puis tapé `tsdp` qui est le raccourci de _Terminal: Select Default Profile_
+
+### Accéder aux paramètres rapidement
+
+> Via un raccourci : `CONTROL + ,`
+
+### Quelques raccourcis utiles
+
+> Enregistrer : `CONTROL + S`
+> Enregistrer-Sous : `CONTROL + SHIFT + S`
+> Nouveau Fichier : `CONTROL + N`
+> Ouvrir un fichier : `CONTROL + O`
+> Dupliqué une ligne (curseur sur la ligne voulu) : `SHIFT + ALT + ↓`
+> Copier : `CONTROL + C`
+> Coller : `CONTROL + V`
+> Couper la selection (bien avoir une selection) : `CONTROL + X`
+> Couper la ligne : `CONTROL + X`
+> Selectioner les mêmes mots (une fois selectionnés) : `CONTROL + D`
+> Rechercher : `CONTROL + F`
+> Retour à la ligne : `ALT + Z`
+> Nouvelle console : `CONTROL + SHIFT + ù`
