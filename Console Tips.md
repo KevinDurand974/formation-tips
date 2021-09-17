@@ -24,6 +24,8 @@
 
 > Ouvrir 1 fichier, Tapez : `code nom_fichier.extension`
 
+_Valable uniquement si vous êtes dans votre dossier de travail_
+
 ## Clear / Nettoyer
 
 > Via ce raccourci : `CONTROL + L`
