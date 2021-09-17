@@ -8,9 +8,11 @@
 
 > Un simple exemple avec `git`.
 
-> J'ai envie d'utiliser `git push`, j'écris `git pu` et là je tab. Ça ne va pas marcher, pouquoi ? Appuyez plusieurs fois sur TAB. L'auto-complession vous propose : `pull ou push`.
+> J'ai envie d'utiliser `git push`, j'écris `git pu` et là je TAB. Ça ne va pas marcher, pouquoi ?
+> Appuyez une ou plusieurs fois de plus sur TAB.
+> L'auto-complession vous propose : `pull ou push`.
 
-> Je rajoute donc un `s` à ma commande, j'appuie sur TAB et voila, elle a auto-complété et me donne `git push`.
+> Je rajoute donc un `s` à ma commande, j'appuie sur TAB et voila, elle c'est auto-complété et me donne `git push`.
 
 > Ça marche de la même façon avec les fichiers, les dossiers, etc ...
 
@@ -48,8 +50,6 @@ _Plus d'informations sur ce site : https://www.nano-editor.org/dist/latest/cheat
 
 > Mode insertion : `i`, même chose pour en sortir
 
-> Mode collage : `:set paste`, même chose pour en sortir
-
 > Enregistrer : `:w`
 
 > Quitter : `:q`
@@ -72,5 +72,7 @@ Très Souvant, la commande à une fonction d'aide intégré.
 > Pour afficher l'aide pour la commande `git`, on peu utiliser `git --help`.
 
 > Pour afficher l'aide d'une sous commande `git`, par exemple `git push`, on peu utiliser `git push --help`
+
+> L'option help peut être écrite de différente magnière, j'ai peu en croiser sous ces différentes formes : `-h`, `-help` ou encore `--help`
 
 > Si ça ne vous suffit pas, Internet est là !
