@@ -44,7 +44,7 @@
 
 > Quitter : `CONTROL + X`
 
-_Plus d'informations sur ce site : https://www.nano-editor.org/dist/latest/cheatsheet.html_
+_Plus d'informations sur ce site : [Cliqué Ici !](https://www.nano-editor.org/dist/latest/cheatsheet.html)_
 
 ### Vous être sur **VIM** et vous êtes perdu ?
 
@@ -62,7 +62,7 @@ _Plus d'informations sur ce site : https://www.nano-editor.org/dist/latest/cheat
 
 > Annuler la dernière opération : `u`
 
-_Plus d'informations sur ce site : https://doc.ubuntu-fr.org/vim_
+_Plus d'informations sur ce site : [Cliqué Ici !](https://doc.ubuntu-fr.org/vim)_
 
 ### Vous ne comprenez pas une commande ?
 
