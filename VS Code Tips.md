@@ -56,4 +56,4 @@ ou
 
 > Multiple curseur : `ALT + CLIQUE GAUCHE`
 
-_D'autre raccourci : [Windows](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png) / [MacOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) / [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)_
+_D'autre raccourci : [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) / [MacOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) / [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)_
