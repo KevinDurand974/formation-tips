@@ -56,4 +56,6 @@ ou
 
 > Multiple curseur : `ALT + CLIQUE GAUCHE`
 
+> Ouvrir rapidement un fichier présent dans l'espace de travail : `CONTROL + E` >> selectionnez le fichier que vous voulez
+
 _D'autre raccourci : [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) / [MacOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) / [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)_
