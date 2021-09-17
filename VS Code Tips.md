@@ -29,8 +29,8 @@ ou
 ### Synchronisez ces extensions et autres
 
 > Vous avez pour habitude de travailler avec 50 extensions sur votre PC à la maison ?<br>
-> Vous avez un autre PC à votre travail ?
-> Vous vous demandez comment je pourrais vite avoir le même setup qu'à la maison ?
+> Vous avez un autre PC à votre travail ?<br>
+> Vous vous demandez comment je pourrais vite avoir le même setup qu'à la maison ?<br>
 > Microsoft et un Utilisateur on pensez à vous !
 
 1. Cliquez sur le bouton paramètre en bas à gauche, appuyer sur `Turn on Settings Sync...`
@@ -59,7 +59,7 @@ ou
 
 7. Et voilà !
 
-_Si un problème est survenu pendant ces étapes, recommencer._
+_Si un problème est survenu pendant ces étapes, recommencer._<br>
 _Si à la dernière étape le token n'est pas directement lié sur VS code, suivez les étapes en dessous de la page Success_
 
 ### Quelques raccourcis utiles
