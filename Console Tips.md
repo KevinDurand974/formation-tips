@@ -73,6 +73,6 @@ Très Souvant, la commande à une fonction d'aide intégré.
 
 > Pour afficher l'aide d'une sous commande `git`, par exemple `git push`, on peu utiliser `git push --help`
 
-> L'option help peut être écrite de différente magnière, j'ai peu en croiser sous ces différentes formes : `-h`, `-help` ou encore `--help`
+> L'option help peut être écrite de différente magnière, j'ai pu en croiser sous ces différentes formes : `-h`, `-help` ou encore `--help`
 
 > Si ça ne vous suffit pas, Internet est là !
