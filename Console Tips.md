@@ -16,7 +16,7 @@
 
 > Ça marche de la même façon avec les fichiers, les dossiers, etc ...
 
-![Tab Key](https://i.imgur.com/Y1iCTGt.png)
+![Tab Key](https://i.imgur.com/1DmygzH.png)
 
 ## Ouvrir Visual Studio Code
 
