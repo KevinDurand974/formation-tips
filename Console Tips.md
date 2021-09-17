@@ -1,6 +1,6 @@
 # Petites astuces pour la console (Terminal) :
 
-### La touche TABULATION !!
+## La touche TABULATION !!
 
 > Cette touche est juste **INCONTOURNABLE**, elle permet d'auto-compléter ce que vous écrivez dans la console !
 
@@ -16,13 +16,13 @@
 
 > Ça marche de la même façon avec les fichiers, les dossiers, etc ...
 
-### Ouvrir Visual Studio Code
+## Ouvrir Visual Studio Code
 
 > Ouvrir le dossier complet, Tapez : `code .`
 
 > Ouvrir 1 fichier, Tapez : `code nom_fichier.extension`
 
-### Clear / Nettoyer
+## Clear / Nettoyer
 
 > Via ce raccourci : `CONTROL + L`
 
@@ -30,13 +30,13 @@
 
 > Ça met la dernière ligne de la console tout en haut. Elle n'enlève pas toutes les commandes passés, elle les cache juste.
 
-### Bloqué ? vous ne pouvez rien faire ?
+## Bloqué ? vous ne pouvez rien faire ?
 
 > Utilisez : `CONTROL + C`
 
 > Celle-ci ne marche pas toujours mais dans le plus grand des cas si
 
-### Vous êtes sur **NANO** et vous êtes perdu ?
+## Vous êtes sur **NANO** et vous êtes perdu ?
 
 > Enregistrer : `CONTROL + S`
 
@@ -46,7 +46,7 @@
 
 _Plus d'informations sur ce site : [Cliqué Ici !](https://www.nano-editor.org/dist/latest/cheatsheet.html)_
 
-### Vous être sur **VIM** et vous êtes perdu ?
+## Vous être sur **VIM** et vous êtes perdu ?
 
 > Mode insertion : `i`, même chose pour en sortir
 
@@ -64,7 +64,7 @@ _Plus d'informations sur ce site : [Cliqué Ici !](https://www.nano-editor.org/d
 
 _Plus d'informations sur ce site : [Cliqué Ici !](https://doc.ubuntu-fr.org/vim)_
 
-### Vous ne comprenez pas une commande ?
+## Vous ne comprenez pas une commande ?
 
 Très Souvant, la commande à une fonction d'aide intégré.
 À savoir que ce n'est pas valable pour toutes les commandes !
