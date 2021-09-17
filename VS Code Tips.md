@@ -53,3 +53,7 @@ ou
 > Retour à la ligne : `ALT + Z`
 
 > Nouvelle console : `CONTROL + SHIFT + ù`
+
+> Multiple curseur : `ALT + CLIQUE GAUCHE`
+
+_D'autre raccourci : [Windows](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png) / [MacOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) / [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)_
