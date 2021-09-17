@@ -3,12 +3,15 @@
 ### Ouvrir ou Cacher la console
 
 > Cliqué sur la [x] en haut à droite de la console si ouvert
+
 > Utilisé le raccourci `CONTROL + ù`
-> _"ù" ce trouve à droite de la touche M sur un clavier Azerty_
+
+_"ù" ce trouve à droite de la touche M sur un clavier Azerty_
 
 ### Changer le type de Shell par défaut utilisé dans la console
 
 > Cliqué sur la [▾] à côté du [+] en haut a droite
+
 > Dernier choix de la liste, `Select Default Profile`
 
 ou
@@ -26,15 +29,27 @@ ou
 ### Quelques raccourcis utiles
 
 > Enregistrer : `CONTROL + S`
+
 > Enregistrer-Sous : `CONTROL + SHIFT + S`
+
 > Nouveau Fichier : `CONTROL + N`
+
 > Ouvrir un fichier : `CONTROL + O`
+
 > Dupliqué une ligne (curseur sur la ligne voulu) : `SHIFT + ALT + ↓`
+
 > Copier : `CONTROL + C`
+
 > Coller : `CONTROL + V`
+
 > Couper la selection (bien avoir une selection) : `CONTROL + X`
+
 > Couper la ligne : `CONTROL + X`
+
 > Selectioner les mêmes mots (une fois selectionnés) : `CONTROL + D`
+
 > Rechercher : `CONTROL + F`
+
 > Retour à la ligne : `ALT + Z`
+
 > Nouvelle console : `CONTROL + SHIFT + ù`
