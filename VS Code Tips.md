@@ -58,4 +58,6 @@ ou
 
 > Ouvrir rapidement un fichier présent dans l'espace de travail : `CONTROL + E` >> selectionnez le fichier que vous voulez
 
+> Déplacer une ou des lignes vers le bas/haut : `ALT + ↓` ou `↑`
+
 _D'autre raccourci : [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) / [MacOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) / [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)_
