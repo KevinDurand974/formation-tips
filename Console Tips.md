@@ -16,6 +16,8 @@
 
 > Ça marche de la même façon avec les fichiers, les dossiers, etc ...
 
+![Tab Key](https://i.imgur.com/PnugSzR.png)
+
 ## Ouvrir Visual Studio Code
 
 > Ouvrir le dossier complet, Tapez : `code .`
