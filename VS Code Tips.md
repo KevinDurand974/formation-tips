@@ -6,7 +6,7 @@
 
 > Utilisé le raccourci `CONTROL + ù`
 
-_"ù" ce trouve à droite de la touche M sur un clavier Azerty_
+![ù key](https://i.imgur.com/ED1vb5B.png)
 
 ### Changer le type de Shell par défaut utilisé par la console
 
