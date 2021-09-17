@@ -2,8 +2,8 @@
 
 A simple repos that give you few tips for Visual Studio Code and the Console (Terminal)
 
-- Console Tips for Console (Terminal)
+- Console (Terminal) in `Console Tips.md` !
 
-- VS Code Tips for Visual Studio Code Tips
+- Visual Studio Code in `VS Code Tips.md` !
 
 - All tips are in french !
