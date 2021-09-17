@@ -28,7 +28,7 @@ ou
 
 ### Synchronisez ces extensions et autres
 
-> Vous avez pour habitude de travailler avec 50 extensions sur votre PC à la maison ?
+> Vous avez pour habitude de travailler avec 50 extensions sur votre PC à la maison ?<br>
 > Vous avez un autre PC à votre travail ?
 > Vous vous demandez comment je pourrais vite avoir le même setup qu'à la maison ?
 > Microsoft et un Utilisateur on pensez à vous !
