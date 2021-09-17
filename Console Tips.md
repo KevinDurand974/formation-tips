@@ -8,8 +8,8 @@
 
 > Un simple exemple avec `git`.
 
-> J'ai envie d'utiliser `git push`, j'écris `git pu` et là je TAB. Ça ne va pas marcher, pouquoi ?
-> Appuyez une ou plusieurs fois de plus sur TAB.
+> J'ai envie d'utiliser `git push`, j'écris `git pu` et là je TAB. Ça ne va pas marcher, pouquoi ?<br>
+> Appuyez une ou plusieurs fois de plus sur TAB.<br>
 > L'auto-complession vous propose : `pull` ou `push`.
 
 > Je rajoute donc un `s` à ma commande, j'appuie sur TAB et voila, elle c'est auto-complété et me donne `git push`.
