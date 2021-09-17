@@ -36,7 +36,7 @@ ou
 
 > Ouvrir un fichier : `CONTROL + O`
 
-> Dupliqué une ligne (curseur sur la ligne voulu) : `SHIFT + ALT + ↓`
+> Dupliqué une ligne (curseur sur la ligne voulu) : `SHIFT + ALT + ↓` ou `↑`
 
 > Copier : `CONTROL + C`
 
