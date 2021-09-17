@@ -34,22 +34,28 @@ ou
 > Microsoft et un Utilisateur on pensez à vous !
 
 1. Cliquez sur le bouton paramètre en bas à gauche, appuyer sur `Turn on Settings Sync...`
-   ![Settings > Settings Sync](https://i.imgur.com/UbcwvnT.png)
+
+![Settings > Settings Sync](https://i.imgur.com/UbcwvnT.png)
 
 2. Sélectionner ce que l'on veux synchronizer
-   ![Select Sync](https://i.imgur.com/NULcFvc.png)
+
+![Select Sync](https://i.imgur.com/NULcFvc.png)
 
 3. Sélectionner la méthode de synchronisation
-   ![Select Sync](https://i.imgur.com/VcYt87T.png)
+
+![Select Sync](https://i.imgur.com/VcYt87T.png)
 
 4. Autorisez VS Code à acceder à Github
-   ![Select Sync](https://i.imgur.com/tLvVUgE.png)
+
+![Select Sync](https://i.imgur.com/tLvVUgE.png)
 
 5. Autorisez Github à fonctionner avec VS Code
-   ![Select Sync](https://i.imgur.com/KP9ArLk.png)
+
+![Select Sync](https://i.imgur.com/KP9ArLk.png)
 
 6. Page Success affichée, début de la synchronisation sur VS Code en fond
-   ![Select Sync](https://i.imgur.com/6vBQ5W3.png)
+
+![Select Sync](https://i.imgur.com/6vBQ5W3.png)
 
 7. Et voilà !
 
