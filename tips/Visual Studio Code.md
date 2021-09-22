@@ -59,7 +59,7 @@ ou
 
 > Via un raccourci : `CONTROL + ,`
 
-### Synchronisez ces extensions et autres
+### Synchroniser ses extensions et autres
 
 > Vous avez pour habitude de travailler avec 50 extensions sur votre PC à la maison ?<br>
 > Vous avez un autre PC à votre travail ?<br>

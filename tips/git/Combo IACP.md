@@ -1,7 +1,7 @@
 # Pourquoi IACP dans le nom ? Init - Add - Commit - Push
 
 > Pour que ce soit plus simple, je vais expliquer le principe avec un Schéma.<br>
-> Ici je ne rentrerais pas dans les détails de chaques options, pour plus de détail, ces options auront un fichier à part entière dans le dossier `git`.
+> Ici je ne rentrerai pas dans les détails de chaques options, pour plus de détail, ces options auront un fichier à part entière dans le dossier `git`.
 
 ## 1. git init
 
@@ -17,7 +17,7 @@
 
 ## 3. git commit
 
-> Vous avez finis d'ajouter les fichiers qui sont modifiés, il faut donc les préparés à l'envoie, vous fermez donc cette boite en y ajoutant un petit message.
+> Vous avez finis d'ajouter les fichiers qui sont modifiés, il faut donc les préparés à l'envoi, vous fermez donc cette boite en y ajoutant un petit message.
 
 ![Git Init](https://imgur.com/1mnxbRY.png)
 
