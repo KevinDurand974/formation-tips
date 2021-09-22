@@ -13,16 +13,16 @@
 
 > Après avoir plus ou moins fait des modifications de fichier, il faut les ajouter à cette boite.
 
-![Git Init](https://imgur.com/5IWWzIP.png)
+![Git Add](https://imgur.com/5IWWzIP.png)
 
 ## 3. git commit
 
 > Vous avez finis d'ajouter les fichiers qui sont modifiés, il faut donc les préparés à l'envoi, vous fermez donc cette boite en y ajoutant un petit message.
 
-![Git Init](https://imgur.com/1mnxbRY.png)
+![Git Commit](https://imgur.com/G3OabXo.png)
 
 ## 4. git push
 
 > Vous voila à la fin, votre boite est fermée, vous avez ajouté votre petit message, maintenant, il faut l'envoyer sur github !
 
-![Git Init](https://imgur.com/Kuq9lP8.png)
+![Git Push](https://imgur.com/Tn1IHEs.png)
