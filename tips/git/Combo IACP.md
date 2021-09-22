@@ -24,6 +24,6 @@
 
 ## 4. git push
 
-> Vous voila à la fin, votre boite est fermée, vous avez ajouté votre petit message, maintenant, il faut l'envoyer sur github !
+> Vous voilà à la fin, votre boite est fermée, vous avez ajouté votre petit message, maintenant, il faut l'envoyer sur github !
 
 ![Git Push](https://imgur.com/Tn1IHEs.png)
