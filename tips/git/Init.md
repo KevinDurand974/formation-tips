@@ -7,3 +7,5 @@
 **_⚠ Attention ⚠ - Pas un GitHub !_**
 
 ![Git Init](https://i.imgur.com/aWOiPAY.png)
+
+_PS: À savoir que le dossier `.git` est caché par défaut._
