@@ -8,6 +8,45 @@
 
 ![ù key](https://i.imgur.com/ED1vb5B.png)
 
+### Ajouter Git Bash à la console
+
+_Si vous avez fait que `next` pendant l'installation de git bash, vous pouvez continué, si vous avez coché la case synchronisé git bash avec visual studio, utilisez l'astuce du dessous directement._
+
+> C'est un petit peu galère mais tenez bon !
+
+> Dans un 1er temps, ouvrez les paramètres de visual studio code (il y a une petite astuce pour ouvrir rapidement en dessous)
+
+> Dans la barre de recherche, tapez `terminal integrated profiles`
+
+_Ce qui donne ça :_
+![Terminal Integrated Profiles](https://i.imgur.com/atNmxbo.png)
+
+> Cliquez sur `Edit in settings.json` par rapport au système de votre pc<br>
+> Cela vous ouvre le fichier `settings.json` qui est litérallement vos paramètres.<br>
+> Votre curseur est sur une ligne vide par défaut. Ajoutez :<br>
+
+```json
+,
+"Git Bash": {
+  "source": "Git Bash"
+}
+```
+
+> Cette ligne dit à Visual Studio Code de récupéré le profil de Git Bash<br>
+> Enregistrez le fichier. (Ctrl + s)<br>
+> Vous pouvez dorénavent, sélectionné le profil `Git Bash` dans votre console.
+
+_Si après ces étapes ça ne fontionne toujours pas, voici la version manuel :_
+
+> À la place de `"source": "Git Bash"`, on va plutôt mettre ceci :<br>
+
+```json
+"path": "C:/Program Files/Git/bin/bash.exe"
+```
+
+_Par défaut, sur windows, c'est ce chemin_<br>
+_N'hésitez pas à me dire pour MacOS et Linux_
+
 ### Changer le type de Shell par défaut utilisé par la console
 
 > Cliqué sur la [▾] à côté du [+] en haut a droite de la console
