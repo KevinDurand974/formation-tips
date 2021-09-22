@@ -8,6 +8,39 @@
 
 ![ù key](https://i.imgur.com/ED1vb5B.png)
 
+### Ajouter Git Bash à la console
+
+_Si vous avez fait que `next` pendant l'installation de git bash, vous pouvez continué, si vous avez coché la case synchronisé git bash avec visual studio, c'est okay pour vous._
+
+> C'est un petit peu galère mais tenez bon !<br>
+> Dans un 1er temps, ouvrez les paramètres de visual studio code (il y a une petite astuce pour ouvrir rapidement en dessous)<br>
+> Dans la barre de recherche, tapez `terminal integrated profiles`
+
+_Ce qui donne ça :_<br>
+![Terminal Integrated Profiles](https://i.imgur.com/atNmxbo.png)
+
+> Cliquez sur `Edit in settings.json` par rapport au système de votre pc<br>
+> Cela vous ouvre le fichier `settings.json` qui est litérallement vos paramètres.<br>
+> Votre curseur est sur une ligne vide par défaut. Ajoutez :<br>
+
+```json
+"GitBash": {
+  "path": "C:/Program Files/Git/bin/bash.exe"
+}
+```
+
+Qui, une fois ajouté ressemble à ça :<br>
+![Added Lines in settings.json](https://i.imgur.com/8Fzb4Zn.png)
+
+_Par défaut, sur windows, c'est ce chemin_<br>
+_N'hésitez pas à me dire pour MacOS et Linux_
+
+_PS: `GitBash` = Un nom affiché dans la console, vous pouvez très bien mettre autre chose._
+
+> Attention à bien avoir ajouté la virgule à la fin de la ligne au dessus, sans quoi il y aura une erreur.<br>
+> Enregistrez le fichier. (Ctrl + s)<br>
+> Vous pouvez dorénavent, sélectionné le profil `GitBash` dans votre console.
+
 ### Changer le type de Shell par défaut utilisé par la console
 
 > Cliqué sur la [▾] à côté du [+] en haut a droite de la console
@@ -26,7 +59,7 @@ ou
 
 > Via un raccourci : `CONTROL + ,`
 
-### Synchronisez ces extensions et autres
+### Synchroniser ses extensions et autres
 
 > Vous avez pour habitude de travailler avec 50 extensions sur votre PC à la maison ?<br>
 > Vous avez un autre PC à votre travail ?<br>
