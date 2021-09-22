@@ -35,8 +35,9 @@ Qui, une fois ajouté ressemble à ça :<br>
 _Par défaut, sur windows, c'est ce chemin_<br>
 _N'hésitez pas à me dire pour MacOS et Linux_
 
-<small>PS: `GitBash` = Un nom affiché dans la console, vous pouvez très bien mettre autre chose.</small>
+_PS: `GitBash` = Un nom affiché dans la console, vous pouvez très bien mettre autre chose._
 
+> Attention à bien avoir ajouté la virgule à la fin de la ligne au dessus, sans quoi il y aura une erreur.<br>
 > Enregistrez le fichier. (Ctrl + s)<br>
 > Vous pouvez dorénavent, sélectionné le profil `GitBash` dans votre console.
 
