@@ -14,10 +14,10 @@
 
 _Si vous ne voulez pas avoir le nom du dépôt comme nom de dossier par défaut, vous pouvez passer 1 argument en plus.<br>Celui-ci étant le nom du dossier dans lequel il mettera les fichiers clonés._
 
-> git clone ssh-url, clonera dans le dossier `formation-tips`
+> `git clone ssh-url` clonera dans le dossier `formation-tips`
 
 ![Git Clone](https://i.imgur.com/cG61naI.png)
 
-> git clone ssh-url nom-de-dossier, clonera dans le dossier `nom-bizarre`
+> `git clone ssh-url nom-de-dossier` clonera dans le dossier `nom-bizarre`
 
 ![Git Clone](https://i.imgur.com/8kh19UM.png)
