@@ -19,7 +19,7 @@
 
 > Vous avez finis d'ajouter les fichiers qui sont modifiés, il faut donc les préparés à l'envoi, vous fermez donc cette boite en y ajoutant un petit message.
 
-![Git Commit](https://imgur.com/G3OabXo.png)
+![Git Commit](https://imgur.com/gvVxeA1.png)
 
 ## 4. git push
 
