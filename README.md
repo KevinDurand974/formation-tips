@@ -1,6 +1,6 @@
 ## Formation Tips
 
-A simple repos that give you few tips for Visual Studio Code and the Console (Terminal)
+A simple repos that give you few tips who can help you.
 
 - All tips are in `Tips` folder !
 

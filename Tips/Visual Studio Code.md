@@ -24,26 +24,21 @@ _Ce qui donne ça :_<br>
 > Votre curseur est sur une ligne vide par défaut. Ajoutez :<br>
 
 ```json
-,
-"Git Bash": {
-  "source": "Git Bash"
+"GitBash": {
+  "path": "C:/Program Files/Git/bin/bash.exe"
 }
 ```
 
-> Cette ligne dit à Visual Studio Code de récupéré le profil de Git Bash<br>
-> Enregistrez le fichier. (Ctrl + s)<br>
-> Vous pouvez dorénavent, sélectionné le profil `Git Bash` dans votre console.
-
-_Si après ces étapes ça ne fontionne toujours pas, voici la version manuel :_
-
-> À la place de `"source": "Git Bash"`, on va plutôt mettre ceci :<br>
-
-```json
-"path": "C:/Program Files/Git/bin/bash.exe"
-```
+Qui, une fois ajouté ressemble à ça :<br>
+![Added Lines in settings.json](https://i.imgur.com/8Fzb4Zn.png)
 
 _Par défaut, sur windows, c'est ce chemin_<br>
 _N'hésitez pas à me dire pour MacOS et Linux_
+
+_PS: `GitBash` = au nom affiché dans la console, vous pouvez très bien mettre autre chose._
+
+> Enregistrez le fichier. (Ctrl + s)<br>
+> Vous pouvez dorénavent, sélectionné le profil `GitBash` dans votre console.
 
 ### Changer le type de Shell par défaut utilisé par la console
 
