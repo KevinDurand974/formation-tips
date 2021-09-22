@@ -16,7 +16,7 @@ _Si vous avez fait que `next` pendant l'installation de git bash, vous pouvez co
 > Dans un 1er temps, ouvrez les paramètres de visual studio code (il y a une petite astuce pour ouvrir rapidement en dessous)<br>
 > Dans la barre de recherche, tapez `terminal integrated profiles`
 
-_Ce qui donne ça :_
+_Ce qui donne ça :_<br>
 ![Terminal Integrated Profiles](https://i.imgur.com/atNmxbo.png)
 
 > Cliquez sur `Edit in settings.json` par rapport au système de votre pc<br>
