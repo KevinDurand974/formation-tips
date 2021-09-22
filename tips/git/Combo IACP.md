@@ -1,7 +1,8 @@
 # Pourquoi IACP dans le nom ? Init - Add - Commit - Push
 
 > Pour que ce soit plus simple, je vais expliquer le principe avec un Schéma.<br>
-> Ici je ne rentrerai pas dans les détails de chaques arguments, pour plus de détail, ces arguments auront un fichier à part entière dans le dossier `git`.
+> Ici je ne rentrerai pas dans les détails de chaques arguments, pour plus de détail, ces arguments auront un fichier à part entière dans le dossier `git`.<br>
+> À savoir qu'ici est recherché uniquement à vous faire comprendre pourquoi utilisé `add`, `commit` et `push`.
 
 ## 1. git init
 
