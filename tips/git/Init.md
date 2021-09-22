@@ -6,4 +6,4 @@
 
 **_⚠ Attention ⚠ - Pas un GitHub !_**
 
-![Git Init](https://i.imgur.com/vDsVzDf.png)
+![Git Init](https://i.imgur.com/aWOiPAY.png)
