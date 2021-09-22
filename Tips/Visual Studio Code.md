@@ -10,7 +10,7 @@
 
 ### Ajouter Git Bash à la console
 
-_Si vous avez fait que `next` pendant l'installation de git bash, vous pouvez continué, si vous avez coché la case synchronisé git bash avec visual studio, utilisez l'astuce du dessous directement._
+_Si vous avez fait que `next` pendant l'installation de git bash, vous pouvez continué, si vous avez coché la case synchronisé git bash avec visual studio, c'est okay pour vous._
 
 > C'est un petit peu galère mais tenez bon !<br>
 > Dans un 1er temps, ouvrez les paramètres de visual studio code (il y a une petite astuce pour ouvrir rapidement en dessous)<br>
