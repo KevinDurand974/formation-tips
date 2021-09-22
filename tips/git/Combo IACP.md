@@ -6,7 +6,7 @@
 
 ## 1. git init
 
-> Lorsque vous utilisez `git init`, on créé un espace de travail.<br>Illustré par la boite sur ce schéma :<br>[Plus d'info](https://github.com/KevinDurand974/formation-tips/blob/pending/tips/git/Init.md#git-init)
+> Lorsque vous utilisez `git init`, on créé un espace de travail.<br>Illustré par la boite sur ce schéma :<br>[Plus d'info](https://github.com/KevinDurand974/formation-tips/blob/master/tips/git/Init.md#git-init)
 
 ![Git Init](https://imgur.com/VDnhndO.png)
 
