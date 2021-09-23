@@ -2,7 +2,7 @@
 
 ### C'est quoi ?
 
-> `git status` demande à git ce qui se passe actuellement.<br>Cet argument vous dira si il y a eu des changements qui n'ont pas été "add" et / ou "commit", si des fichiers ne sont pas "tracker" (suivi). On peu y voir aussi des commandes à faire.<br>Typiquement, si un ficher n'a pas été tracker, elle vous affichera un message disant tel fichier n'est pas tracker, vous pouvez l'ajouter en faisant...
+> `git status` demande à git ce qui se passe actuellement.<br>Cet argument vous dira si il y a eu des changements qui n'ont pas été "add" et / ou "commit", si des fichiers ne sont pas "tracker" (suivi). On peu y voir aussi des commandes à faire.
 
 **Par exemple :**
 
