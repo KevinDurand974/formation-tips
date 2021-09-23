@@ -22,6 +22,6 @@
 
 > Ici dit à git que vous ajoutez tous les fichiers présents dans le dossier qui on l'extension `.js` (pas les fichiers js dans les sous dossier).
 
-![SSH Link](https://i.imgur.com/bmvKeRY.png)
+![Git Add](https://i.imgur.com/bmvKeRY.png)
 
 _N'hésitez pas à faire un `git status` pour avoir plus d'information_
