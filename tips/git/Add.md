@@ -2,7 +2,7 @@
 
 ### C'est quoi ?
 
-> `git add` dit à git que vous voulez ajoutez les fichiers présents dans l'espace "en attente" de git<br>
+> `git add` dit à git que vous voulez ajoutez les fichiers présents dans l'espace "en attente"<br>
 
 **Par exemple :**
 
