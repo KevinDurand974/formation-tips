@@ -39,7 +39,7 @@ _PS: `GitBash` = Un nom affiché dans la console, vous pouvez très bien mettre 
 
 > Attention à bien avoir ajouté la virgule à la fin de la ligne au dessus, sans quoi il y aura une erreur.<br>
 > Enregistrez le fichier. (Ctrl + s)<br>
-> Vous pouvez dorénavent, sélectionné le profil `GitBash` dans votre console.
+> Vous pouvez dorénavent, sélectionner le profil `GitBash` dans votre console.
 
 ### Changer le type de Shell par défaut utilisé par la console
 
