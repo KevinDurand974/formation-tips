@@ -23,7 +23,7 @@ _Dans un 1er temps on va ce concentrer sur la partie du haut et dans un second t
 
 **2ième ligne jusqu'à la fin**<br>
 
-> "Changes not staged for commit"
+> "Changes not staged for commit"<br>
 > Qui veut dire : "Des changements on été apportés mais n'ont pas été ajoutés pour pouvoir commit"<br><br>
 > Elle vous indique donc qu'il faut utilisé `git add <file>` pour mettre à jour et pouvoir commit après.<br>
 > Elle vous indique aussi que vous pouvez annuler ces changements en utilisant `git restore <file>`.<br><br>
