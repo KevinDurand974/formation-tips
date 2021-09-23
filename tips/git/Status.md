@@ -27,7 +27,7 @@ _Dans un 1er temps on va ce concentrer sur la partie du haut et dans un second t
 > Qui veut dire : "Des changements on été apportés mais n'ont pas été ajoutés pour pouvoir commit"<br><br>
 > Elle vous indique donc qu'il faut utilisé `git add <file>` pour mettre à jour et pouvoir commit après.<br>
 > Elle vous indique aussi que vous pouvez annuler ces changements en utilisant `git restore <file>`.<br><br>
-> Pour finir, elle vous affiche en rouge les ou les fichiers / dossiers concernés.
+> Pour finir, elle vous affiche en rouge le ou les fichiers / dossiers concernés.
 
 - **Partie Basse :**
 
@@ -42,8 +42,8 @@ _Dans un 1er temps on va ce concentrer sur la partie du haut et dans un second t
 
 **_Dernère ligne_**
 
-> "No change added to commit"<br>
-> Veut dire qu'aucun changement n'a été ajouté pour commit dernière.<br>
-> Elle propose encuite ces 2 commandes.
+> "No changes added to commit"<br>
+> Veut dire qu'aucuns changements n'a été ajoutés pour commit dernière.<br>
+> Elle propose ensuite ces 2 commandes.
 
 _N'hésitez pas à abuser de `git status`._
