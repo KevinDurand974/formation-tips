@@ -20,4 +20,4 @@ Git a besoin de savoir qui vous êtes, pour cela, git donne accès à l'argument
 
 `git config --global --list`
 
-_À savoir que vous pouvez changer ces donnée localement, si l'ordinateur est partagé entre plusieurs personnes.<br>Au lieu de `--global`, utilisez `--local`.<br><br>Il faut faire les 2 premières étapes sur chaque nouvelle installation de Git Bash_
+_À savoir que vous pouvez changer ces donnée localement, si l'ordinateur est partagé entre plusieurs personnes.<br>Au lieu de `--global`, utilisez `--local`.<br><br>Il faut faire les 2 premières étapes sur chaque nouvelle installation de Git Bash ou lors ce que vous utilisez un pc partagé pour savoir qui fait les changement (dans ce cas on utilisera `--local`)._
