@@ -13,6 +13,7 @@ On a donc un `git status` qui nous dit pleins de choses.
 _Dans un 1er temps on va ce concentrer sur la partie du haut et dans un second temps la partie basse._
 
 - **Partie Haute :**
+<hr>
 
 ![Git Status Top Part](https://i.imgur.com/H5hGEvH.png)
 
