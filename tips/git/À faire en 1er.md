@@ -12,7 +12,7 @@
 
 `git config --global user.name "nom_utilisateur/nom"`
 
-<br><hr> <br>
+<br><hr><br>
 
 ### Adresse email
 
