@@ -1,4 +1,4 @@
-# Pourquoi IACP dans le nom ? Init - Add - Commit - Push
+# Le Combo Init - Add - Commit - Push !
 
 > Pour que ce soit plus simple, je vais expliquer le principe avec un Schéma.<br>
 > Ici je ne rentrerai pas dans les détails de chaques arguments, pour plus de détail, ces arguments auront un fichier à part entière dans le dossier `git`.<br>
