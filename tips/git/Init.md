@@ -6,6 +6,6 @@
 
 **_⚠ Attention ⚠ - Pas un GitHub !_**
 
-![Git Init](https://i.imgur.com/aWOiPAY.png)
+![Git Init](https://i.imgur.com/QDy0zXB.png)
 
 _PS: À savoir que le dossier `.git` est caché par défaut._

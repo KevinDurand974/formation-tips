@@ -8,6 +8,8 @@
 
 ![ù key](https://i.imgur.com/ED1vb5B.png)
 
+<br><hr><br>
+
 ### Ajouter Git Bash à la console
 
 _Si vous avez fait que `next` pendant l'installation de git bash, vous pouvez continué, si vous avez coché la case synchronisé git bash avec visual studio, c'est okay pour vous._
@@ -39,7 +41,9 @@ _PS: `GitBash` = Un nom affiché dans la console, vous pouvez très bien mettre 
 
 > Attention à bien avoir ajouté la virgule à la fin de la ligne au dessus, sans quoi il y aura une erreur.<br>
 > Enregistrez le fichier. (Ctrl + s)<br>
-> Vous pouvez dorénavent, sélectionné le profil `GitBash` dans votre console.
+> Vous pouvez dorénavent, sélectionner le profil `GitBash` dans votre console.
+
+<br><hr><br>
 
 ### Changer le type de Shell par défaut utilisé par la console
 
@@ -55,9 +59,13 @@ ou
 
 > Via un raccrouci : `CONTROL + SHIFT + P` >> puis tapé `tsdp` qui est le raccourci de _Terminal: Select Default Profile_
 
+<br><hr><br>
+
 ### Accéder aux paramètres rapidement
 
 > Via un raccourci : `CONTROL + ,`
+
+<br><hr><br>
 
 ### Synchroniser ses extensions et autres
 
@@ -94,6 +102,8 @@ ou
 
 _Si un problème est survenu pendant ces étapes, recommencer._<br>
 _Si à la dernière étape le token n'est pas directement lié sur VS code, suivez les étapes en dessous de la page Success_
+
+<br><hr><br>
 
 ### Quelques raccourcis utiles
 

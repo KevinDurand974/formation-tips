@@ -18,6 +18,8 @@
 
 ![Tab Key](https://i.imgur.com/1DmygzH.png)
 
+<br><hr><br>
+
 ## Ouvrir Visual Studio Code
 
 > Ouvrir le dossier complet, Tapez : `code .`
@@ -25,6 +27,8 @@
 > Ouvrir 1 fichier, Tapez : `code nom_fichier.extension`
 
 _Valable uniquement si vous êtes dans votre dossier de travail_
+
+<br><hr><br>
 
 ## Clear / Nettoyer
 
@@ -34,11 +38,15 @@ _Valable uniquement si vous êtes dans votre dossier de travail_
 
 > Ça met la dernière ligne de la console tout en haut. Elle n'enlève pas toutes les commandes passés, elle les cache juste.
 
+<br><hr><br>
+
 ## Bloqué ? vous ne pouvez rien faire ?
 
 > Utilisez : `CONTROL + C`
 
 > Celle-ci ne marche pas toujours mais dans le plus grand des cas si
+
+<br><hr><br>
 
 ## Vous êtes sur **NANO** et vous êtes perdu ?
 
@@ -49,6 +57,8 @@ _Valable uniquement si vous êtes dans votre dossier de travail_
 > Quitter : `CONTROL + X`
 
 _Plus d'informations sur ce site : [Cliqué Ici !](https://www.nano-editor.org/dist/latest/cheatsheet.html)_
+
+<br><hr><br>
 
 ## Vous être sur **VIM** et vous êtes perdu ?
 
@@ -67,6 +77,8 @@ _Plus d'informations sur ce site : [Cliqué Ici !](https://www.nano-editor.org/d
 > Annuler la dernière opération : `u`
 
 _Plus d'informations sur ce site : [Cliqué Ici !](https://doc.ubuntu-fr.org/vim)_
+
+<br><hr><br>
 
 ## Vous ne comprenez pas une commande ?
 
