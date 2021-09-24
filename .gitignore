@@ -1,2 +1,6 @@
 bordel/
 auto/
+package.json
+package-lock.json
+node_modules/
+app.js
