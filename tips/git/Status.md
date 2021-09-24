@@ -12,7 +12,7 @@ On a donc un `git status` qui nous dit pleins de choses.
 
 _Dans un 1er temps on va ce concentrer sur la partie du haut et dans un second temps la partie basse._
 
-<hr>
+<br><hr><br>
 
 ### Partie Haute :
 
@@ -31,7 +31,7 @@ _Dans un 1er temps on va ce concentrer sur la partie du haut et dans un second t
 > Elle vous indique aussi que vous pouvez annuler ces changements en utilisant `git restore <file>`.<br><br>
 > Pour finir, elle vous affiche en rouge le ou les fichiers / dossiers concernés.
 
-<hr>
+<br><hr><br>
 
 ### Partie Basse :
 

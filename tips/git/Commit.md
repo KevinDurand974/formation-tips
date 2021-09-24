@@ -6,6 +6,8 @@
 > Il est cependant très fortement conseillé de mettre un message lors du commit, même dans le cas où il n'y a presque aucun changement.<br>
 > Je vais montrer comment faire un commit sans message mais à n'utiliser vraiment s'il n'y a pas le choix.
 
+<br><hr><br>
+
 ### git commit avec un message :
 
 > Comme dit précédemment, on utilisera 99,99% du temps `git commit` avec un message.<br>
@@ -19,6 +21,8 @@ _Par exemple :_
 > Ici, on écrit un message grâce au petit argument `-m <explication>` qui est le raccourci de `--message=<explication>`.
 
 _PS: faire un `git commit -m ""` vous renverra une erreur._
+
+<br><hr><br>
 
 ### git commit sans message :
 

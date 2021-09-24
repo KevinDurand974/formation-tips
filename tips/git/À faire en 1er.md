@@ -1,6 +1,10 @@
-# Vous venez d'installer Git Bash, bravo, maintenant il faut le configurer.
+# Vous venez d'installer Git Bash
 
-Git a besoin de savoir qui vous êtes, pour cela, git donne accès à l'argument `config` pour ajouter ces informations.
+### Bravo, maintenant il faut le configurer.
+
+> Git a besoin de savoir qui vous êtes, pour cela, git donne accès à l'argument `config` pour ajouter ces informations.
+
+<br><hr><br>
 
 ### Name
 
@@ -8,11 +12,15 @@ Git a besoin de savoir qui vous êtes, pour cela, git donne accès à l'argument
 
 `git config --global user.name "nom_utilisateur/nom"`
 
+<br><hr><br>
+
 ### Adresse email
 
 > Ajoutez aussi votre adresse email avec cette commande :
 
 `git config --global user.email "je_ne_sais_quoi@domaine.extension"`
+
+<br><hr><br>
 
 ### Liste ce que vous avez écrit lors des précédentes étapes
 

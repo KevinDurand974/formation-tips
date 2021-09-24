@@ -55,4 +55,8 @@ _Exemple :_
 
 > On envoie le ou les commits de la branche `pending` vers le dépôt `origin`<br>
 
-> Lie la branche du dépôt avec la branche locale<br>Ou<br>Crée la branche sur le dépôt s'il elle n'existe pas puis la lie
+> Lie la branche du dépôt avec la branche locale<br>
+
+Ou
+
+> Crée la branche sur le dépôt s'il elle n'existe pas puis la lie
