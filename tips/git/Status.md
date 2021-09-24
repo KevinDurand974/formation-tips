@@ -1,6 +1,6 @@
 # git status
 
-### **C'est quoi ?**
+### C'est quoi ?
 
 > `git status` demande à git ce qui se passe actuellement.<br>Cet argument vous dira si il y a eu des changements qui n'ont pas été "add" et / ou "commit", si des fichiers ne sont pas "tracker" (suivi). On peu y voir aussi des commandes à faire.
 
@@ -14,7 +14,7 @@ _Dans un 1er temps on va ce concentrer sur la partie du haut et dans un second t
 
 <hr>
 
-### **Partie Haute :**
+### Partie Haute :
 
 ![Git Status Top Part](https://i.imgur.com/H5hGEvH.png)
 
@@ -33,7 +33,7 @@ _Dans un 1er temps on va ce concentrer sur la partie du haut et dans un second t
 
 <hr>
 
-### **Partie Basse :**
+### Partie Basse :
 
 ![Git Status Bottom Part](https://i.imgur.com/dfx6rL1.png)
 
