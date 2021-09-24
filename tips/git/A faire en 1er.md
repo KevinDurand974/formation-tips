@@ -1,6 +1,6 @@
 # Vous venez d'installer Git Bash
 
-### Bravo, maintenant il faut le configurer.
+### Bravo, maintenant il faut le configurer
 
 > Git a besoin de savoir qui vous êtes, pour cela, git donne accès à l'argument `config` pour ajouter ces informations.
 
